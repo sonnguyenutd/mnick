@@ -1,9 +1,11 @@
 100 methods having +20 LOC and MNick worked well on them
 
 Format:
+---------------
 //MNick predicted: {predicted name}
 //class: {enclosing class}
 {Method}
+---------------
 
 
 //MNick predicted: collect object
